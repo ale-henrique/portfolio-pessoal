@@ -1,7 +1,6 @@
 
-# Portfolio Pessoal 💫
+# Portfolio Pessoal 🎲💫
 
-## Descrição 📋
 Site pessoal para apresentar minhas habilidades, experiência e projetos.
 
 ## Tecnologias 💻
